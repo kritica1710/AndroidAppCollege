@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" ><annotation font="title_emphasis">BoozStir</annotation></string>
+    <string name="action_settings">Settings</string>
+    <string name="prompt"><annotation font="title_emphasis">Enter a cocktail name</annotation></string>
+</resources>
